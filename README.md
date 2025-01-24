@@ -5,7 +5,13 @@ A user management form where users can add new users and update existing users. 
 
 
 Features:
-Add new users with fields like name, email, and phone number.
-Update existing user information.
-Delete users.
-Store user data in localStorage.
+1.Add new users with fields like name, email, and phone number.
+
+
+2.Update existing user information.
+
+
+3.Delete users.
+
+
+4.Store user data in localStorage.
